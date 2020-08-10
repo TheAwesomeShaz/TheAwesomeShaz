@@ -1,8 +1,8 @@
 ##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz when I am making Games 🕹)
 
 
-- 🔭 I’m currently working on a <b>lot of stuff</b> really, idk I keep changing projects 
-- 🌱 I’m currently learning Unity Game Development mostly but some other things too  
+- 🔭 I’m currently working on <b>Games</b> 
+- 🌱 I’m currently learning <b>Unity Game Development </b>
 - 😁 The Answer to our every problem is a google search away  
 
 <!--
