@@ -8,9 +8,8 @@
 -->
 
 <p>
-- 🔭 I’m currently working on a lot of stuff really, idk I keep changing projects
-- 🌱 I’m currently learning Unity Game Development mostly but some other things too
-- 😁 The Answer to our every problem is a google search away
-</p>
+- 🔭 I’m currently working on a lot of stuff really, idk I keep changing projects </p>
+- 🌱 I’m currently learning Unity Game Development mostly but some other things too  </p>
+- 😁 The Answer to our every problem is a google search away  </p>
 
 
