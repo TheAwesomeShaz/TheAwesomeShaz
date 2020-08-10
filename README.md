@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>Games</b> 
 - 🌱 I’m currently learning <b>Unity Game Development </b>
-- 😁 The Answer to our every problem is a google search away  
+- 😁 The Answer to our every problem is a <b>Google Search</b> away  
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
