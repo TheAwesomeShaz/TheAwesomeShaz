@@ -1,16 +1,7 @@
 ### Hello there! I am an Indie Gamedev
 
 
-<style type="text/css">
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
-
-<img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF" class="center">
+<p align="center"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
