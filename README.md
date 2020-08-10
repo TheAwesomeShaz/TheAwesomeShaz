@@ -11,7 +11,7 @@
 -->
 
 ## 🎮 Some of my Projects
-- [Control'nt - Epic Synthwave Shooting Game (Browser Game)](https://theawesomeshaz.itch.io/control-nt)
+- [Control'nt](https://theawesomeshaz.itch.io/control-nt) an Epic Synthwave Shooter (Browser Game)
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
