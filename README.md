@@ -1,7 +1,4 @@
-##  👋 HeyI'm Shahbaaz Khan (or TheAwesomeShaz when I am making Games )
-
-
-<p align="center"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
+##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz when I am making Games 🕹)
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,6 +7,10 @@
 
 ## 🎮 Some of my Projects
 - [Control'nt - Epic Synthwave Shooting Browser Game](https://theawesomeshaz.itch.io/control-nt)
+<p align="center"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
+
+
+- [Bandit Attack - Lane Defense Browser Game](https://theawesomeshaz.itch.io/bandit-attack)
 
 <p>
 - 🔭 I’m currently working on a **lot of stuff** really, idk I keep changing projects </p>
