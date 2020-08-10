@@ -1,4 +1,4 @@
-##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz when making Games 🕹)
+##  👋 Hi! I'm Shahbaaz Khan (TheAwesomeShaz Gamedev 🕹)
 
 
 - 🔭 I’m currently working on <b>Games</b> 
@@ -10,7 +10,7 @@
 
 -->
 
-## 🎮 Some of my Projects
+## 🎮 Projects
 - [Control'nt](https://theawesomeshaz.itch.io/control-nt) <b>- an Epic Synthwave Shooter (Browser Game)</b>
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
