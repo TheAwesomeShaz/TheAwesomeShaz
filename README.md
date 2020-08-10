@@ -1,4 +1,4 @@
-##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz when I am making Games 🕹)
+##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz when making Games 🕹)
 
 
 - 🔭 I’m currently working on <b>Games</b> 
