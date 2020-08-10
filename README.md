@@ -1,9 +1,11 @@
 ### Hi there 👋
 
+<p style="text-align:center;"><img src="Control'nt%20GIF.gif" alt="cool GIF"></p>
+
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p style="text-align:center;"><img src="Control'nt%20GIF.gif" alt="cool GIF"></p>
+
 
 
 Here are some ideas to get you started:
