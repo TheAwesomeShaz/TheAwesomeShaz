@@ -11,11 +11,13 @@
 -->
 
 ## 🎮 Projects
+- [Bandit Attack](https://theawesomeshaz.itch.io/bandit-attack) <b>- Lane Defense (Browser Game)</b>
 - [Control'nt](https://theawesomeshaz.itch.io/control-nt) <b>- an Epic Synthwave Shooter (Browser Game)</b>
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
-- [Bandit Attack](https://theawesomeshaz.itch.io/bandit-attack) <b>- Lane Defense (Browser Game)</b>
+
+
 
 
 
