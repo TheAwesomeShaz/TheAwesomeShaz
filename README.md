@@ -1,4 +1,4 @@
-## Hello there! I'm Shahbaaz Khan (aka TheAwesomeShaz on the play store)
+##  👋 HeyI'm Shahbaaz Khan (aka TheAwesomeShaz on the play store)
 
 
 <p align="center"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
@@ -8,6 +8,8 @@
 
 -->
 
+## 🎮 Some of my Projects
+- [Control'nt](https://theawesomeshaz.itch.io/control-nt)
 
 <p>
 - 🔭 I’m currently working on a **lot of stuff** really, idk I keep changing projects </p>
