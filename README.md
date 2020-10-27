@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <b>Games</b> 
-- 🌱 I’m currently learning <b>Unity Game Development </b>
+- 🌱 I’m currently learning <b>Unity Game Development </b> and <b>Web Development</b>
 - 😁 The Answer to our every problem is a <b>Google Search</b> away  
 
 <!--
