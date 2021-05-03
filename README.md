@@ -15,15 +15,12 @@
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
--
-
-
-https://user-images.githubusercontent.com/51862748/116839518-4d298700-abf0-11eb-9f4c-87abcced3ce4.mp4
 
 
 
+![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839620-a72a4c80-abf0-11eb-8052-95f32bbbf0d2.gif)
 
-![Intiqaam](https://user-images.githubusercontent.com/51862748/116839420-f9b73900-abef-11eb-8c30-b9799cb253df.png) <b>- 3D Third Person stealth game (for Windows PC)</b>
+<b>- 3D Third Person stealth game (for Windows PC)</b>
 
 
 
