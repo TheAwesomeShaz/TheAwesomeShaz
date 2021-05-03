@@ -21,7 +21,8 @@
 
 - [Intiqaam](https://theawesomeshaz.itch.io/intiqaam) <b>- 3D Third Person Stealth Game (Downloadable for Windows)</b>
 
-![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839660-cfb24680-abf0-11eb-912a-7bdec6c327e0.gif)
+![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839861-7bf42d00-abf1-11eb-951b-f6a428a48e34.gif)
+
 
 
 <b>- 3D Third Person stealth game (for Windows PC)</b>
