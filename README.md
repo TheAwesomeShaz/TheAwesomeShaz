@@ -16,7 +16,7 @@
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
-
+<br> <p>------------------------------------------------------------------------------------</p> <br>
 
 
 - [Intiqaam](https://theawesomeshaz.itch.io/intiqaam) <b>- 3D Third Person Stealth Game (Downloadable for Windows)</b>
@@ -27,7 +27,6 @@
 
 
 
-<b>- 3D Third Person stealth game (for Windows PC)</b>
 
 
 
