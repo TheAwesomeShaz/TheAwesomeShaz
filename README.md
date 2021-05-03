@@ -15,11 +15,7 @@
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/2fK3WPo2xf0" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
+<iframe frameborder="0" src="https://itch.io/embed/1011074?linkback=true&amp;bg_color=1d0833&amp;fg_color=faad57&amp;link_color=5ad1fa&amp;border_color=4c3762" width="552" height="167"><a href="https://theawesomeshaz.itch.io/intiqaam">Intiqaam by TheAwesomeShaz</a></iframe>
 
 
 
