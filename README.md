@@ -11,14 +11,14 @@
 -->
 
 ## 🎮 Games
-### Control'nt
+
 - [Control'nt](https://theawesomeshaz.itch.io/control-nt) <b>- an Epic Synthwave Shooter (Browser Game)</b>
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
 
 
-### Intiqaam
+
 - [Intiqaam](https://theawesomeshaz.itch.io/intiqaam) <b>- 3D Third Person Stealth Game (Downloadable for Windows)</b>
 
 ![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839660-cfb24680-abf0-11eb-912a-7bdec6c327e0.gif)
