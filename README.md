@@ -2,8 +2,8 @@
 
 
 - 🔭 I’m currently working on <b>Games</b> 
-- 🌱 I’m currently learning <b>Unity Game Development </b> and <b>Web Development</b> kindof
-- 💻 small gaming laptop, but big dream lol
+- 🌱 I’m either learning anything and everything related to Game Development or procrastinating hard by watching youtube vids no in between
+- 💻 small gaming laptop, but big dream, also lot of impostor syndrome😀
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2fK3WPo2xf0&ab/0.jpg)](https://www.youtube.com/watch?v=2fK3WPo2xf0&ab_channel=TheAwesomeShaz)
 
 
 
