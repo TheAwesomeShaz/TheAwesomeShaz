@@ -1,3 +1,4 @@
+![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839650-c7f2a200-abf0-11eb-80d7-3a04e4622546.gif)
 ##  👋 Hi! I'm Shahbaaz Khan (TheAwesomeShaz Gamedev 🕹)
 
 
@@ -11,14 +12,16 @@
 -->
 
 ## 🎮 Games
+### Control'nt
 - [Control'nt](https://theawesomeshaz.itch.io/control-nt) <b>- an Epic Synthwave Shooter (Browser Game)</b>
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
 
 
+### Intiqaam
+![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839660-cfb24680-abf0-11eb-912a-7bdec6c327e0.gif)
 
-![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839620-a72a4c80-abf0-11eb-8052-95f32bbbf0d2.gif)
 
 <b>- 3D Third Person stealth game (for Windows PC)</b>
 
