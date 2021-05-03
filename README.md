@@ -15,7 +15,7 @@
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2fK3WPo2xf0&ab/0.jpg)](https://www.youtube.com/watch?v=2fK3WPo2xf0&ab_channel=TheAwesomeShaz)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2fK3WPo2xf0&ab_channel=TheAwesomeShaz/0.jpg)](https://www.youtube.com/watch?v=2fK3WPo2xf0&ab_channel=TheAwesomeShaz)
 
 
 
