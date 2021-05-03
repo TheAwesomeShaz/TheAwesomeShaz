@@ -1,4 +1,3 @@
-![Intiqaam GIF](https://user-images.githubusercontent.com/51862748/116839650-c7f2a200-abf0-11eb-80d7-3a04e4622546.gif)
 ##  👋 Hi! I'm Shahbaaz Khan (TheAwesomeShaz Gamedev 🕹)
 
 
