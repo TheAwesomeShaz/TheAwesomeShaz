@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <b>Games</b> 
-- 🌱 I’m either learning anything and everything related to Game Development or procrastinating hard by watching youtube vids no in between
+- 🌱 I’m either learning everything related to Game Development or procrastinating by watching youtube vids no in between
 - 💻 small gaming laptop, but big dream, also lot of impostor syndrome😀
 
 <!--
