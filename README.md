@@ -1,9 +1,9 @@
-##  👋 Hi! I'm Shahbaaz Khan (TheAwesomeShaz Gamedev 🕹)
+##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz 🕹)
 
 
 - 🔭 I’m currently working on <b>Games</b> 
 - 🌱 I’m either learning everything related to Game Development or procrastinating by watching youtube vids no in between
-- 💻 small gaming laptop, but big dream, also lot of impostor syndrome😀
+- 💻 small gaming laptop, but big dream, also lot of impostor syndrome
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
