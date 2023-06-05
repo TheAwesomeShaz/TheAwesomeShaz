@@ -1,7 +1,7 @@
 ##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz 🕹)
 
 
-- 🔭 I’m currently working on <b>not wanting to die</b> 
+- 🔭 I’m currently working on <b>Gamedev Stuff as well as some Youtube Videos</b> 
 - 🌱 Corporate Slave Gamedev by day, Indie Game Developer by night
 - 💻 encapsulates lot of impostor syndrome
 
