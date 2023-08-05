@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>Gamedev Stuff as well as some Youtube Videos</b> 
 - 🌱 Corporate Slave Gamedev by day, Indie Game Developer by night
-- 💻 encapsulates lot of impostor syndrome
+- 💻 I watch Trash Slice of Life Anime
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
