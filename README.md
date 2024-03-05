@@ -1,13 +1,12 @@
 ##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz 🕹)
 
-🔭 I’m currently:
+### 🔭 I’m currently:
 
-- Freelancing as a Gamedev
-- Working on some Youtube Videos
-- Working on a "personal project TBA"
-- Recovering from a massive Burnout
-
-- 💻 I watch Trash Slice of Life Anime
+- 💻 Freelancing as a Gamedev
+- 🎥 Working on some Youtube Videos
+- ❔  Working on a "personal project TBA"
+- 💀 Recovering from a Massive Burnout
+- 🍥 Watching Trash Slice of Life Anime
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
