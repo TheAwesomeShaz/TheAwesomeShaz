@@ -5,7 +5,7 @@
 - 💻 Freelancing as a Gamedev
 - 🎥 Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
 - ❔  Working on a "personal project TBA"
-- 💀 Recovering from a Massive Burnout
+- 💀 Recovering from a [Massive Burnout](https://www.youtube.com/watch?v=jqWkDI8aI9M)
 - 🍥 Watching Trash Slice of Life Anime
 
 <!--
