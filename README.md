@@ -15,15 +15,16 @@
 
 ## 🎮 Games
 
-### [Intiqaam](https://theawesomeshaz.itch.io/intiqaam) <b>- 3D Third Person Stealth Game (Downloadable for Windows)</b>
-<p align="left"><img src="https://user-images.githubusercontent.com/51862748/116839944-c2e22280-abf1-11eb-851d-8fcc1f29fed7.gif" alt="intiqaam GIF"></p>
-
+<li>
+  ### [Intiqaam](https://theawesomeshaz.itch.io/intiqaam) <b>- 3D Third Person Stealth Game (Downloadable for Windows)</b>
+  <p align="left"><img src="https://user-images.githubusercontent.com/51862748/116839944-c2e22280-abf1-11eb-851d-8fcc1f29fed7.gif" alt="intiqaam GIF"></p>
+</li>
 <br>  <br>
 
-
+<li>
 ### [Control'nt](https://theawesomeshaz.itch.io/control-nt) <b>- A Top Down Synthwave Shooter (Browser Game)</b>
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
-
+</li>
 
 
 
