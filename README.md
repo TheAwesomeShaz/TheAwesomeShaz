@@ -3,7 +3,7 @@
 ### 🔭 I’m currently:
 
 - 💻 Freelancing as a Gamedev
-- 🎥 Working on some Youtube Videos
+- 🎥 Creating Gamedev Youtube Videos here : <link>https://www.youtube.com/@TheAwesomeShaz</link>
 - ❔  Working on a "personal project TBA"
 - 💀 Recovering from a Massive Burnout
 - 🍥 Watching Trash Slice of Life Anime
