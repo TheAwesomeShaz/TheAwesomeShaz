@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on <b>Freelancing as a Gamedev  some Youtube Videos</b>
 
-<li>Freelancing as a Gamedev</li>
-<li>Working on some Youtube Videos</li>
-<li>Working on a "personal project TBA"</li>
-<li>Recovering from a massive Burnout</li>
+- <li>Freelancing as a Gamedev</li>
+- <li>Working on some Youtube Videos</li>
+- <li>Working on a "personal project TBA"</li>
+- <li>Recovering from a massive Burnout</li>
 
 - 🌱 Corporate Slave Gamedev by day, Indie Game Developer by night
 - 💻 I watch Trash Slice of Life Anime
