@@ -2,11 +2,11 @@
 
 ### 🔭 I’m currently:
 
-- 💻 Working on Fears to Fathom
-- 🎥 Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
-- ❔  Working on a "personal project TBA"
-- 💪 Chasing a 6 pack
-- 🎮 Playing open world trash
+- 💻  Working on Fears to Fathom
+- 🎥  Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
+- ❔   Working on a "personal project TBA"
+- 💪  Chasing a 6 pack
+- 🎮  Playing open world trash
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
