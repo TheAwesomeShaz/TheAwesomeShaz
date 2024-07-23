@@ -4,7 +4,7 @@
 
 - 💻  Working on Fears to Fathom
 - 🎥  Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
-- ❔   Working on a "personal project TBA"
+- ❔     Working on a "personal project TBA"
 - 💪  Chasing a 6 pack
 - 🎮  Playing open world trash
 
