@@ -1,12 +1,12 @@
-##  👋 Hi! I'm Shahbaaz Khan (aka TheAwesomeShaz 🕹)
+##  👋 Hi! I'm Shahbaaz Khan (TheAwesomeShaz🕹)
 
 ### 🔭 I’m currently:
 
-- 💻  Freelancing as a Gamedev
-- 🎥  Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
-- ❔   Working on a "personal project TBA"
-- 💀 Recovering from a [Massive Burnout](https://www.youtube.com/watch?v=jqWkDI8aI9M)
-- 🍥 Watching Trash Slice of Life Anime
+- 💻 Working on Fears to Fathom
+- 🎥 Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
+- ❔  Working on a "personal project TBA"
+- 💪 Chasing a 6 pack
+- 🎮 Playing open world trash
 
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
