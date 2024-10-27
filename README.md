@@ -3,6 +3,7 @@
 ### 🔭 I’m currently:
 
 - 💻  Working on Fears to Fathom
+- 🟪 [Portfolio Link](https://theawesomeshaz.github.io/)
 - 🎥  Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
 - ❔     Working on a "personal project TBA"
 - 💪  Chasing a 6 pack
