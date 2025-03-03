@@ -1,18 +1,20 @@
-##  👋 Hi! I'm Shahbaaz Khan (TheAwesomeShaz🕹)
+##  👋 Hi! I'm Shahbaaz Khan 
 
 ### 🔭 I’m currently:
 
+- 💻  Transitioning from Gamedev To Backend
+
+<!--
 - 💻  Working on Fears to Fathom
 - 🟪 [Portfolio Link](https://theawesomeshaz.github.io/)
 - 🎥  Creating a [Gamedev Youtube Channel](https://www.youtube.com/@TheAwesomeShaz)
 - ❔     Working on a "personal project TBA"
 - 💪  Chasing a 6 pack
 - 🎮  Playing open world trash
-
+-->
 <!--
 **ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
--->
 
 ## 🎮 Games
 
@@ -26,7 +28,7 @@
 ### [Control'nt](https://theawesomeshaz.itch.io/control-nt) <b>- A Top Down Synthwave Shooter (Browser Game)</b>
 <p align="left"><img src="https://github.com/ShahbaazKhan-TheAwesomeShaz/ShahbaazKhan-TheAwesomeShaz/blob/master/Control'nt%20GIF.gif" alt="cool GIF"></p>
 
-
+-->
 
 
 
